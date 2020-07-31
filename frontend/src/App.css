@@ -61,8 +61,8 @@ main {
 
 @media screen and (max-width: 1106px) {
     .sidebar-container {
-        margin-top: 20rem;
-        margin-left: 3rem;
+        margin-top: 25rem;
+        margin-left: 0rem;
     }
 
     .main-title,
