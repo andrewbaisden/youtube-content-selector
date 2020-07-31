@@ -81,12 +81,13 @@ const App = () => {
 								{/* Uncomment the image and comment out the iframe if you want to use an image instead of a video */}
 								{/* <img src={selectedData.img} alt={selectedData.name} /> */}
 								<iframe
+									title={selectedData.id}
 									width="100%"
 									height="400"
 									src={selectedData.youtube}
-									frameborder="0"
+									frameBorder="0"
 									allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-									allowfullscreen
+									allowFullScreen
 								></iframe>
 							</div>
 							<div className="main-title">
@@ -102,12 +103,13 @@ const App = () => {
 								{/* Uncomment the image and comment out the iframe if you want to use an image instead of a video */}
 								{/* <img src={selectedData.img} alt={selectedData.name} /> */}
 								<iframe
+									title={selectedData.id}
 									width="100%"
 									height="400"
 									src={selectedData.youtube}
-									frameborder="0"
+									frameBorder="0"
 									allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-									allowfullscreen
+									allowFullScreen
 								></iframe>
 							</div>
 							<div className="main-title">
