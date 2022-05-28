@@ -1,6 +1,6 @@
 # Youtube Content Selector
 
-![Youtube Content Selector](https://res.cloudinary.com/d74fh3kw/image/upload/v1596208734/youtube-content-selector_hq7xoj.png 'Youtube Content Selector')
+![Youtube Content Selector](/img/youtube-content-selector.png 'Youtube Content Selector')
 
 ## Installation
 
